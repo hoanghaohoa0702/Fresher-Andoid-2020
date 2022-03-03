@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         button.setOnClickListener {
             Toast.makeText(applicationContext,"Xin chào",Toast.LENGTH_SHORT).show()
+            //
         }
     }
 }
